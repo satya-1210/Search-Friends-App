@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Search-Friends-App/static/css/main.4919596d.chunk.css",
+    "main.js": "/Search-Friends-App/static/js/main.f8f37678.chunk.js",
+    "main.js.map": "/Search-Friends-App/static/js/main.f8f37678.chunk.js.map",
+    "runtime-main.js": "/Search-Friends-App/static/js/runtime-main.9b93962a.js",
+    "runtime-main.js.map": "/Search-Friends-App/static/js/runtime-main.9b93962a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Search-Friends-App/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4b02dd3e.chunk.js": "/Search-Friends-App/static/js/2.4b02dd3e.chunk.js",
+    "static/js/2.4b02dd3e.chunk.js.map": "/Search-Friends-App/static/js/2.4b02dd3e.chunk.js.map",
+    "index.html": "/Search-Friends-App/index.html",
+    "precache-manifest.76609a100cab3b41fc86135bea2e2be8.js": "/Search-Friends-App/precache-manifest.76609a100cab3b41fc86135bea2e2be8.js",
+    "service-worker.js": "/Search-Friends-App/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Search-Friends-App/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4919596d.chunk.css.map": "/Search-Friends-App/static/css/main.4919596d.chunk.css.map",
+    "static/js/2.4b02dd3e.chunk.js.LICENSE.txt": "/Search-Friends-App/static/js/2.4b02dd3e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Search-Friends-App/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b93962a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4b02dd3e.chunk.js",
+    "static/css/main.4919596d.chunk.css",
+    "static/js/main.f8f37678.chunk.js"
+  ]
+}
